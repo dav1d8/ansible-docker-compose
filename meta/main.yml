@@ -1,0 +1,5 @@
+galaxy_info:
+  author: David Baranyai
+  description: An Ansible role for installing docker-compose.
+  license: Apache
+  categories: docker
